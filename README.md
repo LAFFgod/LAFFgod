@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Opa eu sou o Luiz, Desenvolvedor FrontEnd Pleno e Aluno de Engenharia Mecânica na UFJF!
 
 Graduando em Engenharia Mecânica pela Universidade Federal de Juiz de Fora (UFJF), com sólida formação técnica e uma paixão pela interseção entre a engenharia e a tecnologia. Meu objetivo é aplicar meus conhecimentos em engenharia, desenvolvimento web e sistemas de controle em um ambiente dinâmico e desafiador.
 
